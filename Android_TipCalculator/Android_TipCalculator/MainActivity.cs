@@ -12,6 +12,7 @@ namespace Android_TipCalculator
             base.OnCreate(savedInstanceState);
 
             // Set our view from the "main" layout resource
+            //Change
             SetContentView(Resource.Layout.Main);
         }
     }
